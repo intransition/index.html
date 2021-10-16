@@ -1,1 +1,2 @@
-test to make it an app
+test to make it an app: first test just shows scrollable output...
+need to update version 19:20 circa
